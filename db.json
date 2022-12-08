@@ -6,9 +6,21 @@
       "image_url": "https://i.pravatar.cc/150?img=15",
       "username": "Rupesh",
       "fullname": "Rupesh Kumar",
-      "email": "rupeshshau@gmail.com",
+      "email": "rupesh@gmail.com",
       "followers": "5",
-      "following": "7"
+      "following": "7",
+      "password": "12345"
+     
+    },
+    {
+      "id":2,
+      "image_url": "https://i.pravatar.cc/150?img=14",
+      "username": "Rahul",
+      "fullname": "Rahul sahu",
+      "email": "rahul@gmail.com",
+      "followers": "5",
+      "following": "7",
+      "password": "12345"
      
     }
   ]
