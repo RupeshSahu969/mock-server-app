@@ -1,16 +1,15 @@
 {
-  "books":
+  "tweeter":
   [
     {
       "id":1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "image_url": "https://i.pravatar.cc/150?img=15",
+      "username": "Rupesh",
+      "fullname": "Rupesh Kumar",
+      "email": "rupeshshau@gmail.com",
+      "followers": "5",
+      "following": "7"
+     
     }
   ]
 }
