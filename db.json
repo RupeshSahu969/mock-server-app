@@ -2,27 +2,27 @@
   "notes":[
     {
     "id":1,
-    "Title of note":"MasaiSchool",
-    "Description":"Coding",
-      "Date": "2021-03-30"
+    "titel":"MasaiSchool",
+    "description":"Coding",
+      "dates": "2021-03-30"
       
     },{
       "id":2,
-      "Title of note":"MasaiSchool",
-      "Description":"Coding",
-        "Date": "2027-03-15"
+      "titel":"MasaiSchool",
+      "description":"Coding",
+        "dates": "2027-03-15"
         
       },{
         "id":3,
-        "Title of note":"MasaiSchool",
-        "Description":"Coding",
-          "Date": "2023-09-30"
+        "titel":"MasaiSchool",
+        "description":"Coding",
+          "dates": "2023-09-30"
           
         },{
           "id":4,
-          "Title of note":"MasaiSchool",
-          "Description":"Coding",
-            "Date": "2021-07-10"
+          "titel":"MasaiSchool",
+          "description":"Coding",
+            "dates": "2021-07-10"
             
           }
      ]
