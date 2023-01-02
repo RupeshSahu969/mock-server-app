@@ -1,29 +1,16 @@
+
 {
-  "notes":[
+  "books":
+  [
     {
-    "id":1,
-    "titel":"MasaiSchool",
-    "description":"Coding",
-      "dates": "2021-03-30"
-      
-    },{
-      "id":2,
-      "titel":"MasaiSchool",
-      "description":"Coding",
-        "dates": "2027-03-15"
-        
-      },{
-        "id":3,
-        "titel":"MasaiSchool",
-        "description":"Coding",
-          "dates": "2023-09-30"
-          
-        },{
-          "id":4,
-          "titel":"MasaiSchool",
-          "description":"Coding",
-            "dates": "2021-07-10"
-            
-          }
-     ]
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    }
+  ]
 }
