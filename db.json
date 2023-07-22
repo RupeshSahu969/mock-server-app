@@ -1,44 +1,16 @@
 {
-    "scenario": [
-      {
-        "name": "Test Scenario",
-        "time": "2s",
-        "id": 1
-      },
-      {
-        "name": "My scenario",
-        "time": "10s",
-        "id": 2
-      }
-    ],
-    "Vehicle": [
-      {
-        "name": "Bus",
-        "position_x": "206",
-        "position_y": "30",
-        "speed": "3",
-        "direction": "Towards",
-        "count": [
-          {
-            "name": "Test Scenario",
-            "time": "2s",
-            "id": 1
-          },
-          {
-            "name": "My scenario",
-            "time": "10s",
-            "id": 2
-          }
-        ],
-        "id": 1
-      },
-      {
-        "name": "Car",
-        "speed": "5",
-        "position_x": "500",
-        "position_y": "500",
-        "direction": "Upwards",
-        "id": 2
-      }
-    ]
-  }
+  "user" :[
+    {
+      "id" : 1,
+      "title": " Clockify",
+      "img" : "https://lh3.googleusercontent.com/ogw/AGvuzYa_naK1IegtpXCKcqHicfcdorGETuClA7FvRZaP4rM=s32-c-mo",
+      "description" : " Time traking websaite",
+      "tackstack" : " Html",
+      "people" : 6 ,
+      "email" : "rupeshsahu969@gmail.com ",
+      "details" : " ",
+      "date" : " 07/22/2023"
+
+    }
+  ]
+}
