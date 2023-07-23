@@ -2,13 +2,61 @@
   "user" :[
     {
       "id" : 1,
-      "title": " Clockify",
-      "img" : "https://lh3.googleusercontent.com/ogw/AGvuzYa_naK1IegtpXCKcqHicfcdorGETuClA7FvRZaP4rM=s32-c-mo",
-      "description" : " Time traking websaite",
-      "tackstack" : " Html",
+      "title": " TATA 1mg",
+      "img" : "https://user-images.githubusercontent.com/101389401/201983169-5fc70a6c-f3ec-4e51-95df-ea3c1e4bf812.png",
+      "description" : " 1mg.com brings to you an online platform",
+      "tackstack" : "Recat,nodejs,express",
       "people" : 6 ,
       "email" : "rupeshsahu969@gmail.com ",
-      "details" : " ",
+      "details" : " 1mg.com brings to you an online platform",
+      "date" : " 07/22/2023"
+
+    },
+    {
+      "id" : 2,
+      "title": " Clockify",
+      "img" : "https://user-images.githubusercontent.com/75201337/198877598-5de15538-24f1-4ff7-bc54-fb3484619268.png",
+      "description" : " Time traking websaite",
+      "tackstack" : " Html,css ,recat,redux",
+      "people" : 4 ,
+      "email" : "nilesh969@gmail.com ",
+      "details" : "Clockify-Clockify is the most popular free time tracker and timesheet app for teams ",
+      "date" : " 01/2/2022"
+
+    }
+    ,{
+      "id" : 3,
+      "title": " Geekbuying-clone",
+      "img" : "https://camo.githubusercontent.com/28a856c8e49b2dd2ad0270a43d85c541293f11eed30225f488de3ca16b0d2689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a715068744f342d54494c686a576f6c30",
+      "description" : " Time traking websaite",
+      "tackstack" : " Html,css ,javascript",
+      "people" : 7,
+      "email" : "pragatitiwari@gmail.com ",
+      "details" : "Geekbuying is the ultimate shopping hub",
+      "date" : " 09/29/2023"
+
+    }
+    ,{
+      "id" : 4,
+      "title": "Fab-Bag",
+      "img" : "https://camo.githubusercontent.com/066f68abb423ff73a3770d11a8e97c56b694c96e143ef972cfb84716fca263a5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f312a65484664417962345f5f543335317370526d435f6f512e706e67",
+      "description" : " Time traking websaite",
+      "tackstack" : "html ,css bootstrap",
+      "people" : 5 ,
+      "email" : "veenanagwanshi@gmail.com ",
+      "details" : " About India's largest beauty subscription service. Receive amazing sample/full-size",
+      "date" : " 02/05/2023"
+
+    },
+    {
+      "id" : 5,
+      "title": " crypto",
+      "img" : "https://user-images.githubusercontent.com/75201337/232208344-af0f6ecd-e79d-40e8-8b77-7bf521401b06.png",
+      "description" : " Time traking websaite",
+      "tackstack" : "React,Redux",
+      "people" : 3 ,
+      "email" : "rupeshsahu969@gmail.com ",
+      "details" : " Simple add to number",
       "date" : " 07/22/2023"
 
     }
