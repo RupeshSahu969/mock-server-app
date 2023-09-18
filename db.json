@@ -1,23 +1,6 @@
 {
   "user": [
-    {
-      "img":"",
-      "status":true,
-      "message":"SUCCESS",
-      "errorcode":"",
-      "data":{
-      "clientcode":"35521",
-      "name":"Rupesh Sahu",
-      "email":"rupeshsahu969@gmail.com",
-      "mobileno":"8103490175",
-      "exchanges":[ "NSE", "BSE", "MCX", "CDS", "NCDEX", "NFO" ],
-      "products":[ "DELIVERY", "INTRADAY", "MARGIN"],
-      "lastlogintime":"2pm",
-      "brokerid":"B2C",
-      "material_status":"yes",
-      "pan_card":"123456789012",
-      "date_of_bdy":"1995-08-28"
-        }
-      }
+    
+      
   ]
 }
