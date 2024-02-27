@@ -1,17 +1,5 @@
 {
   "user": [
-    {
-      "id":1,
-      "firstName":"Rupesh",
-      "lastName":"shau",
-      "email":"a@gmail.com",
-      "conDet":"1234567890",
-      "address":"raipur",
-      "qualDetails":"BE",
-      "dOB":"28/08/1993",
-      "exp":"1", 
-      "passYear":"2023",
-      "resumeFile":"a.png"
-        }
+    
   ]
 }
