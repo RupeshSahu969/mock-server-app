@@ -1,12 +1,60 @@
 {
-  "data": [
-      {
-          "id": 1,
-          "name": "John",
-          "email": "a@gmail.com",
-          "phone": "1234567890",
-          "address": "Raipur",
-          "resume": "resume_content_here"
-      }
+  "users": [
+    {
+      "name": "Pavithri",
+      "email": "shimasreedaran@gmail.com",
+      "phone": "9605854176",
+      "state": "Delhi",
+      "total": "₹50,000",
+      "promoters": 500
+    },
+    {
+      "name": "Raja",
+      "email": "raja@gmail.com",
+      "phone": "9605854176",
+      "state": "Chhattisgarh",
+      "total": "₹60,000",
+      "promoters": 100
+    },
+    {
+      "name": "Veena",
+      "email": "ran@gmail.com",
+      "phone": "9605854176",
+      "state": "Bihar",
+      "total": "₹20,000",
+      "promoters": 50
+    },
+    {
+      "name": "Kamlesh",
+      "email": "sreedaran@gmail.com",
+      "phone": "9605854176",
+      "state": "Bihar",
+      "total": "₹10,000",
+      "promoters": 40
+    },
+    {
+      "name": "Tulsi",
+      "email": "masreedaran@gmail.com",
+      "phone": "9605854176",
+      "state": "Bihar",
+      "total": "₹40,000",
+      "promoters": 30
+    },
+    {
+      "name": "Mohan",
+      "email": "fmasreedaran@gmail.com",
+      "phone": "9605854176",
+      "state": "Bihar",
+      "total": "₹90,000",
+      "promoters": 25
+    },
+    {
+      "name": "Sitha",
+      "email": "rtyrtn@gmail.com",
+      "phone": "9605854176",
+      "state": "Bihar",
+      "total": "₹50,000",
+      "promoters": 5
+    }
   ]
 }
